@@ -1,0 +1,15 @@
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.exe
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.deps.json
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.runtimeconfig.json
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.runtimeconfig.dev.json
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.dll
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\Tripping.pdb
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.csprojAssemblyReference.cache
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.AssemblyInfoInputs.cache
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.AssemblyInfo.cs
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.csproj.CopyComplete
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.dll
+E:\Programming\Tripping\obj\Debug\netcoreapp3.1\Tripping.pdb
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\Programming\Tripping\bin\Debug\netcoreapp3.1\CryptSharp.dll
